@@ -19,7 +19,8 @@ Username: admin
 Password: Test@123
 
 *****************User Credential*****************
-Username: 1234567890
+Username: DikshaJadhav
 Password: Test@123
+
 
 or Register a new user.
