@@ -1,6 +1,3 @@
-# Vehicle-Parking-Management-System
-Repository for Vehicle Parking Management System
-
 # 🚗 Vehicle Parking Management System (VPMS)
 
 A web-based application built using PHP and MySQL to manage and monitor vehicle parking efficiently within an organization or commercial parking space.
